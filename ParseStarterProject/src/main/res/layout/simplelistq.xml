@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="#ffffffff" android:padding="0.0dip" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ListView android:id="@id/aLV" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@drawable/list_pressed_holo_dark" android:layout_alignParentTop="true" android:layout_alignParentStart="true" />
+        <EditText android:id="@id/AET" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:singleLine="false" android:layout_alignParentBottom="true" android:inputType="textMultiLine" android:layout_toStartOf="@id/send" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" style="@style/Widget.AppCompat.Light.AutoCompleteTextView" />
+        <Button android:id="@id/AB" android:background="@drawable/wshadow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Send" android:layout_above="@id/AET" android:layout_alignParentEnd="true" />
+        <Button android:id="@id/attach" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Attach" android:layout_alignParentBottom="true" android:layout_alignStart="@id/AB" />
+        <com.google.android.gms.ads.AdView android:id="@id/adView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_alignParentStart="true" ads:adSize="BANNER" ads:adUnitId="ca-app-pub-6405485161020407/1920076597" xmlns:ads="http://schemas.android.com/apk/res-auto" />
+    </RelativeLayout>
+</LinearLayout>

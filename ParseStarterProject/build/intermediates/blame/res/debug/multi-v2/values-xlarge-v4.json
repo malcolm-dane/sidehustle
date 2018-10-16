@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\NotUber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-xlarge-v4\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,136,210,283,360,436",
+                        "endColumns": "77,72,71,75,74,69",
+                        "endOffsets": "130,204,277,354,430,501"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,133,206,278,354,429",
+                        "endColumns": "77,72,71,75,74,69",
+                        "endOffsets": "128,201,273,349,424,494"
+                    }
+                }
+            ]
+        }
+    ]
+}

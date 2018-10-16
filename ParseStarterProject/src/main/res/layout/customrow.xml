@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff083900" android:id="@id/message" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff02000a" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:id="@id/status" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:id="@id/phone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

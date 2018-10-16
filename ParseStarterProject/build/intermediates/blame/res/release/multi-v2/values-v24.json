@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\NotUber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-v24\\styles.xml",
+                    "from": {
+                        "startLines": "6,7,2,3,4,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "569,735,57,187,307,437",
+                        "endColumns": "164,142,128,118,128,130",
+                        "endOffsets": "729,873,181,301,431,563"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,219,361,489,607,735",
+                        "endColumns": "163,141,127,117,127,129",
+                        "endOffsets": "214,356,484,602,730,860"
+                    }
+                }
+            ]
+        }
+    ]
+}

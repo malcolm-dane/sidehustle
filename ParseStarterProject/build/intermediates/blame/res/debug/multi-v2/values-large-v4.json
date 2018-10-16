@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\NotUber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-large-v4\\styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,170",
+                        "endColumns": "111,123",
+                        "endOffsets": "164,289"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "566,677",
+                        "endColumns": "110,122",
+                        "endOffsets": "672,795"
+                    }
+                },
+                {
+                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-large-v4\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "57,120,199,273,351,424,500",
+                        "endColumns": "61,77,72,76,71,74,73",
+                        "endOffsets": "114,193,267,345,418,494,569"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,195,268,345,417,492",
+                        "endColumns": "61,77,72,76,71,74,73",
+                        "endOffsets": "112,190,263,340,412,487,561"
+                    }
+                }
+            ]
+        }
+    ]
+}

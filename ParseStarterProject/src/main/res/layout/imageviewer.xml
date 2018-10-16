@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="302.0dip">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0" android:layout_weight="1.0">
+                <ImageView android:id="@id/imageView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TableLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <EditText android:id="@id/editText2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="textMultiLine" />
+                    </TableRow>
+                    <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    <TableRow android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <Button android:id="@id/button5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Button" />
+                    </TableRow>
+                </TableLayout>
+            </LinearLayout>
+        </FrameLayout>
+    </RelativeLayout>
+</LinearLayout>

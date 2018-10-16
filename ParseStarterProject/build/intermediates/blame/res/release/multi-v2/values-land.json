@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\NotUber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-land\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "244"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "340",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "524"
+                    }
+                },
+                {
+                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,131,199,274",
+                        "endColumns": "72,66,73,70",
+                        "endOffsets": "125,193,268,340"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,195,269",
+                        "endColumns": "72,66,73,70",
+                        "endOffsets": "123,190,264,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

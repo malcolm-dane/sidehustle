@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/ivOther" android:layout_width="64.0dip" android:layout_height="64.0dip" android:src="@mipmap/ic_launcher" android:contentDescription="@string/profile_other" />
+    <TextView android:textSize="18.0sp" android:id="@id/tvBody" android:padding="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="3" android:layout_marginEnd="64.0dip" />
+    <ImageView android:id="@id/ivMe" android:layout_width="64.0dip" android:layout_height="64.0dip" android:src="@mipmap/ic_launcher" android:contentDescription="@string/profile_me" android:layout_marginStart="-64.0dip" />
+</LinearLayout>

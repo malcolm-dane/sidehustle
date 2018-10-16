@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/bids" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="141.0dip" android:divider="@drawable/list_pressed_holo_dark" style="@style/Widget.AppCompat.ListView" />
+    <TextView android:id="@id/objID" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="47.0dip" android:text="TextView" android:layout_below="@id/driversname" android:layout_alignParentStart="true" />
+    <TextView android:id="@id/type" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" android:layout_alignBaseline="@id/objID" android:layout_alignBottom="@id/objID" android:layout_marginStart="69.0dip" android:layout_toEndOf="@id/objID" />
+    <TextView android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" android:layout_above="@id/textView2" android:layout_marginEnd="27.0dip" android:layout_alignParentEnd="true" />
+    <TextView android:id="@id/driversname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignStart="@id/objID" />
+    <TextView android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="25.0dip" android:text="Finalize your offer! Click Below!" android:layout_below="@id/type" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" />
+    <TextView android:id="@id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="status" android:layout_above="@id/type" android:layout_toEndOf="@id/driversname" />
+    <TextView android:id="@id/textView5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Type" android:layout_above="@id/type" android:layout_alignStart="@id/type" />
+    <TextView android:id="@id/textView6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Name" android:layout_above="@id/name" android:layout_alignStart="@id/name" />
+</RelativeLayout>

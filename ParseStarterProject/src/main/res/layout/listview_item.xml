@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/username" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="username" android:layout_alignParentStart="true" />
+    <TextView android:id="@id/message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/username" />
+    <TextView android:id="@id/countrylabel" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:id="@id/country" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:id="@id/populationlabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/countrylabel" />
+    <TextView android:id="@id/population" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/populationlabel" android:layout_below="@id/country" />
+    <ImageView android:id="@id/image" android:background="#ff000000" android:padding="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+</RelativeLayout>

@@ -1,0 +1,4 @@
+#Tue Oct 16 11:28:11 EDT 2018
+base.0=C\:\\NotUber\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
