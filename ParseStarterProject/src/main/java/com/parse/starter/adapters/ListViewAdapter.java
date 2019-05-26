@@ -62,7 +62,7 @@ public class ListViewAdapter extends BaseAdapter {
             view = this.inflater.inflate(R.layout.listview_item, null);
             holder.username = (TextView) view.findViewById(R.id.username);
             holder.message = (TextView) view.findViewById(R.id.message);
-            holder.imageurl = (ImageView) view.findViewById(2131624036);
+            holder.imageurl = (ImageView) view.findViewById(R.id.image);
             view.setTag(holder);
         } else {
             holder = (ViewHolder) view.getTag();

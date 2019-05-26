@@ -1,7 +1,7 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-71:12
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-72:12
 MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\play-services-7.5.0.aar\6b25fe1509c66fda0b36c50ad56359ef\AndroidManifest.xml:16:1-20:12
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.7] C:\Users\-\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.1.7.aar\b2734a90e4c0e3aed9252ef5c04f02f4\AndroidManifest.xml:2:1-10:12
 MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\75ddc1de5350f0d8be9409017d1ac7d1\AndroidManifest.xml:17:1-28:12
@@ -41,7 +41,7 @@ MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\-\.gradle\c
 MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\90022fd095b4ac81233ca1cdd79e5865\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\19fff9e2102a52f5d4892bea10c41d5f\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:25.3.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\e71171611fa41367cb56f1f45027075f\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-72:12
 	package
 		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:2:70-97
 		INJECTED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml
@@ -151,7 +151,7 @@ MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\-\.grad
 	android:name
 		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:24:22-71
 application
-ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:26:5-69:19
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:26:5-70:19
 MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\play-services-7.5.0.aar\6b25fe1509c66fda0b36c50ad56359ef\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\play-services-7.5.0.aar\6b25fe1509c66fda0b36c50ad56359ef\AndroidManifest.xml:19:5-20
 MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\75ddc1de5350f0d8be9409017d1ac7d1\AndroidManifest.xml:26:5-20
@@ -306,34 +306,38 @@ activity#com.parse.starter.Activities.BetterViewREquests
 ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:50:9-83
 	android:name
 		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:50:19-81
+activity#com.parse.starter.Activities.TabbedMain
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:51:9-75
+	android:name
+		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:51:19-73
 activity#com.parse.starter.Activities.betterview1
-ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:52:9-76
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:53:9-76
 	android:name
-		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:52:19-74
+		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:53:19-74
 activity#com.parse.starter.Activities.Permissions
-ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:54:9-64:20
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:55:9-65:20
 	android:name
-		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:54:19-74
+		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:55:19-74
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:56:13-62:29
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:57:13-63:29
 action#android.intent.action.MAIN
-ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:58:17-68
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:59:17-68
 	android:name
-		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:58:25-66
+		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:59:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:60:17-76
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:61:17-76
 	android:name
-		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:60:27-74
+		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:61:27-74
 activity#com.google.android.gms.ads.AdActivity
-ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:66:9-123
+ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:67:9-123
 MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\play-services-ads-7.5.0.aar\01f8076af4d55309f352a5c39720426d\AndroidManifest.xml:26:9-29:64
 MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\play-services-ads-7.5.0.aar\01f8076af4d55309f352a5c39720426d\AndroidManifest.xml:26:9-29:64
 	android:configChanges
 		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\-\.gradle\caches\transforms-1\files-1.1\play-services-ads-7.5.0.aar\01f8076af4d55309f352a5c39720426d\AndroidManifest.xml:28:13-122
 	android:theme
-		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:66:73-121
+		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:67:73-121
 	android:name
-		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:66:20-72
+		ADDED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml:67:20-72
 uses-sdk
 INJECTED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\NotUber\ParseStarterProject\src\main\AndroidManifest.xml

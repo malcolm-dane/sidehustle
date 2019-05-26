@@ -1,5 +1,5 @@
 package com.parse.starter.adapters;
-
+//Not used
 import android.app.Activity;
 import android.util.Log;
 import android.view.View;

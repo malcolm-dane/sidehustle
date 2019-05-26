@@ -56,19 +56,19 @@ public class testing implements Serializable, LocationListener {
                             B.add(object.getParseFile(ParseUser.getCurrentUser().getUsername()).getUrl());
                             Log.i("aCheck1", "aCheck");
                         } else {
-                            B.add("http://www.mdane-devportfolio.com/images.png");
+                            B.add("https://en.wikipedia.org/wiki/File:Circle-withsegments.svg#/media/File:Circle-1.png");
                         }
                         if (object.getParseFile(other) != null) {
                             B.add(object.getParseFile(other).getUrl());
                             Log.i(other, "aCheck");
                         } else {
-                            B.add("http://www.mdane-devportfolio.com/images.png");
+                            B.add("https://en.wikipedia.org/wiki/File:Circle-withsegments.svg#/media/File:Circle-1.png");
                         }
                     }
                     return;
                 }
-                B.add(0, "http://www.mdane-devportfolio.com/images.png");
-                B.add(1, "http://www.mdane-devportfolio.com/images.png");
+                B.add(0, "https://en.wikipedia.org/wiki/File:Circle-withsegments.svg#/media/File:Circle-1.png");
+                B.add(1, "https://en.wikipedia.org/wiki/File:Circle-withsegments.svg#/media/File:Circle-1.png");
             }
         });
     }

@@ -41,7 +41,7 @@ import java.util.ArrayList;
 import ru.katso.livebutton.LiveButton;
 import com.parse.starter.R;
 
-public class MainActivity extends AppCompatActivity {
+public class  MainActivity extends AppCompatActivity {
     ArrayList<String> aList;
     String aUser;
     EditText eText;
@@ -193,7 +193,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void signupOrLogin(View view) {
-        getIt();
+     new Runnable() {
+            @Override
+            public void run() {
+                getIt();
+            }
+        };
+
+
         if (this.gettheDistance < 75.0d) {
             ParseUser.logInInBackground(String.valueOf(this.username.getText()), String.valueOf(this.password.getText()), new LogInCallback() {
                 public void done(ParseUser user, ParseException e) {

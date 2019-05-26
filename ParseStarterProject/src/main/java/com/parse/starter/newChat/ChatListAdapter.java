@@ -68,6 +68,7 @@ public class ChatListAdapter extends ArrayAdapter<Message> {
         } else {
             profileView = holder.imageOther;
         }
+
         String B = this.urlList.get(1);
         this.imageLoader.DisplayImage(this.urlList.get(0), holder.imageMe);
         this.imageLoader.DisplayImage(B, holder.imageOther);

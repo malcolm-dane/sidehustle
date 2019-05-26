@@ -45,7 +45,7 @@ public class UserList extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_user_list);
+        setContentView((int) R.layout.activity_user_list);
         MobileAds.initialize(getApplicationContext(), "ca-app-pub-6405485161020407~7683183944");
         this.mAdView = (AdView) findViewById(R.id.adView);
         this.mAdView.loadAd(new Builder().build());
@@ -83,7 +83,7 @@ public class UserList extends AppCompatActivity {
         this.listView.setOnItemClickListener(new OnItemClickListener() {
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
                 Intent i = new Intent(UserList.this, newChatActivity.class);
-                i.putExtra("username", UserList.this.usernames.get(position));
+                i.putExtra("username", (String) UserList.this.usernames.get(position));
                 UserList.this.startActivity(i);
             }
         });

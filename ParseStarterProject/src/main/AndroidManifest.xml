@@ -48,6 +48,7 @@
         <activity android:label="chat" android:name="com.parse.starter.newChat.newChatActivity"/>
 
         <activity android:name="com.parse.starter.Activities.BetterViewREquests"/>
+        <activity android:name="com.parse.starter.Activities.TabbedMain"/>
 
         <activity android:name="com.parse.starter.Activities.betterview1"/>
 
