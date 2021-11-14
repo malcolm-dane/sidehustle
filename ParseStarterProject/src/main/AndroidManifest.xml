@@ -25,7 +25,7 @@
 
     <application android:allowBackup="true" android:icon="@drawable/workingman" android:label="@string/app_name" android:name="com.parse.starter.StarterApplication" android:theme="@style/AppTheme">
 
-        <meta-data android:name="com.parse.APPLICATION_ID" android:value="traintrackapp"/>
+        <meta-data android:name="com.parse.APPLICATION_ID" android:value="backend"/>
 
         <activity android:label="@string/app_name" android:name="com.parse.starter.Activities.MainActivity"/>
 
@@ -40,6 +40,7 @@
         <activity android:label="Open Requests" android:name="com.parse.starter.Activities.vw2"/>
 
         <activity android:label="@string/title_activity_view_requests" android:name="com.parse.starter.SingleItemView"/>
+        <activity android:label="@string/title_activity_tabbed_main" android:name="com.parse.starter.Activities.TabbedMain"/>
 
         <activity android:label="Where are they" android:name="com.parse.starter.Activities.ViewRiderLocation"/>
 

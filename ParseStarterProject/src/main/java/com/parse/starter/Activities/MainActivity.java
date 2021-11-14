@@ -194,7 +194,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void signupOrLogin(View view) {
         getIt();
-        if (this.gettheDistance < 75.0d) {
+       // if (this.gettheDistance < 75.0d) {
             ParseUser.logInInBackground(String.valueOf(this.username.getText()), String.valueOf(this.password.getText()), new LogInCallback() {
                 public void done(ParseUser user, ParseException e) {
                     if (user != null) {
@@ -247,7 +247,7 @@ public class MainActivity extends AppCompatActivity {
                     });
                 }
             });
-        }
+       // }
     }
 
     public void ChatView(View view) {

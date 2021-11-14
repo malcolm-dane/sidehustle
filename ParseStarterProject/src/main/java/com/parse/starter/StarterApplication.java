@@ -16,7 +16,7 @@ public class StarterApplication extends Application {
         ParseObject.registerSubclass(Message.class);
         ParseObject.registerSubclass(Bids.class);
         ParseObject.registerSubclass(aRequest.class);
-        Parse.initialize(new Builder(getApplicationContext()).applicationId("traintrackapp").clientKey("bcdeafg").server("https://traintrackapp.herokuapp.com/parse/").build());
+        Parse.initialize(new Builder(getApplicationContext()).applicationId("backend").clientKey("abcde").server("https://young-inlet-55443.herokuapp.com/parse/").build());
         ParseACL.setDefaultACL(new ParseACL(), true);
     }
 }

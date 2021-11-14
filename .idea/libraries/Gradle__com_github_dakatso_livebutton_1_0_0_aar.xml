@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dakatso:livebutton:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livebutton-1.0.0.aar/12302b0c5838c1d05afd3fd0c0fce4cf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livebutton-1.0.0.aar/12302b0c5838c1d05afd3fd0c0fce4cf/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livebutton-1.0.0.aar/12302b0c5838c1d05afd3fd0c0fce4cf/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,4 +1,4 @@
-#Tue Oct 16 11:28:11 EDT 2018
-base.0=C\:\\NotUber\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
+#Tue Nov 09 22:47:41 EST 2021
+base.0=C\:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
+path.0=classes.dex

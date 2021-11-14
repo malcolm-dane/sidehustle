@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\NotUber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "C:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "C:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "4,2,3,18,23,9,10,11,12,13,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

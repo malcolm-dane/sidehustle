@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\NotUber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-sw600dp-v13\\dimens.xml",
+                    "source": "C:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\src\\main\\res\\values-sw600dp-v13\\dimens.xml",
                     "from": {
                         "startLines": "6,7,2,8,9,5,3,4,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-sw600dp-v13\\integers.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "62",
-                        "endOffsets": "115"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1302",
-                        "endColumns": "62",
-                        "endOffsets": "1360"
-                    }
-                },
-                {
-                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-sw600dp-v13\\styles.xml",
+                    "source": "C:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\src\\main\\res\\values-sw600dp-v13\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -54,6 +37,23 @@
                         "endLines": "23",
                         "endColumns": "12",
                         "endOffsets": "1549"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\src\\main\\res\\values-sw600dp-v13\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "62",
+                        "endOffsets": "115"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1302",
+                        "endColumns": "62",
+                        "endOffsets": "1360"
                     }
                 }
             ]

@@ -35,10 +35,11 @@
         android:debuggable="true"
         android:icon="@drawable/workingman"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <meta-data
             android:name="com.parse.APPLICATION_ID"
-            android:value="traintrackapp" />
+            android:value="backend" />
 
         <activity
             android:name="com.parse.starter.Activities.MainActivity"
@@ -63,6 +64,9 @@
         <activity
             android:name="com.parse.starter.SingleItemView"
             android:label="@string/title_activity_view_requests" />
+        <activity
+            android:name="com.parse.starter.Activities.TabbedMain"
+            android:label="@string/title_activity_tabbed_main" />
         <activity
             android:name="com.parse.starter.Activities.ViewRiderLocation"
             android:label="Where are they" />

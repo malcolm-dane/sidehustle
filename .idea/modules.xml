@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NotUber.iml" filepath="$PROJECT_DIR$/NotUber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sidehustle.iml" filepath="$PROJECT_DIR$/.idea/modules/sidehustle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ParseStarterProject/sidehustle.ParseStarterProject.iml" filepath="$PROJECT_DIR$/.idea/modules/ParseStarterProject/sidehustle.ParseStarterProject.iml" />
     </modules>
   </component>
 </project>

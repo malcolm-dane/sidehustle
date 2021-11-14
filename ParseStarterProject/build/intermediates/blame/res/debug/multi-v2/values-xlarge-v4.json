@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\NotUber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "outputFile": "C:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\NotUber\\ParseStarterProject\\src\\main\\res\\values-xlarge-v4\\dimens.xml",
+                    "source": "C:\\Users\\mdane\\Documents\\sidehustle\\ParseStarterProject\\src\\main\\res\\values-xlarge-v4\\dimens.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
